@@ -10,7 +10,20 @@ export default {
         items: [
           {
             text: "Nedir",
-            link: "/01_tanis/01_what-is.md"
+            link: "/01_tanis/01_nedir.md"
+          },
+          {
+            text: "Dökümanlar",
+            link: "/01_tanis/02_dokumanlar.md"
+          },
+        ],
+      },
+      {
+        text: "Gramer",
+        items: [
+          {
+            text: "İfadeler",
+            link: "/02_gramer/01_cumle-yapisi"
           },
         ],
       },
