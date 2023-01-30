@@ -4,9 +4,6 @@
 Programcılığa başlamak için en iyi dillerden biri Python, diğeri JavaScript'tir
 :::
 
-Python kodu genellikle daha yapılandırılmış ve okunabilir. Bir zamanlar
-buna alışırsanız, bazı bölümlerinin neredeyse ingilizce gibi okunduğunu kabul edebilirsiniz!
-
 [İstatistikler](https://survey.stackoverflow.co/2022/#most-popular-technologies-language-learn)
 
 [Python Nedir?](https://www.pythontr.com/makale/python-nedir-235)

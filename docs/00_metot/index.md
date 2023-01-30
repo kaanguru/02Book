@@ -7,15 +7,17 @@ Bir dil öğrenirken o dilin kelimelerini ezberlemek yada gramer kurallarına ç
 
 İnsanlık bilgisi dille ifade edilir, bu yüzden _kodlama eğitim yöntemimi_ geliştirirken; yazılım dillerini yazılı ve sözlü bir dil perspektifinden anlamaya çalıştım.
 
-Dersleri Takip Etmek için [codewars](www.codewars.com/r/VHz6ew) ve kaggle hesabı açın.
+::: info
+Dersleri Takip Etmek için codewars ve kaggle hesabı açın.
+:::
 
-[Problem Çözerek İlerleme](www.codewars.com/r/VHz6ew)
+Kodlayarak öğreten <a href="//www.codewars.com/r/VHz6ew" target="_blank" rel="noreferrer">CodeWars Hesabı Aç</a>
 
-[Python Eğitim Platformu](https://www.kaggle.com/learn)
+Python Eğitim Platformu [Kaggle Hesabı Aç](https://www.kaggle.com/learn)
 
 ## 20 Yıllık Deneyim
 
-![Cem Kaan](./profile.png) ile Bilgisayar programcılığı
+![Cem Kaan](./profile.png)
 
 ## Ne bilmek gerekiyor
 
@@ -28,8 +30,8 @@ Dersleri Takip Etmek için [codewars](www.codewars.com/r/VHz6ew) ve kaggle hesab
 * Python daha önce duymuş olanlar
 * Nerden başlayacağına karar veremeyenler
 
-### Dünyadaki geliştiricilerin % 70'inin ana dili ingilizce değildir.
+### Dünyadaki geliştiricilerin % 70'inin ana dili ingilizce değildir
 
 ## Dilbilimsel Yaklaşımla Dil Öğrenme
 
-Dillerin nasıl işlediğini anlamanın önemli olduğuna inanıyorum. Bu yüzden bu kursu organize etmek için çok zaman harcıyorum.
+Dillerin nasıl işlediğini anlamanın önemli olduğuna inanıyorum. Bu yüzden bu kursu dil eğitimi gibi organize etmek için zaman harcıyorum.
