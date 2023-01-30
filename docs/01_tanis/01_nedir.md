@@ -19,3 +19,4 @@ Fayton şeklinde okunur.
 * Raspberry Pi Model 3
 * Intel Edison
 * Arduino
+

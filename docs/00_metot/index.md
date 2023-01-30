@@ -25,7 +25,8 @@ Dillerin nasıl işlediğini anlamanın önemli olduğuna inanıyorum. Bu yüzde
 
 Doğal diller konuştuğumuz dillerdir; Türkçe, İngilizce, İspanyolca ve Fransızca gibi. Doğal diller insanlar tarafından tasarlanmamıştır (insanlar bunlar için kurallar koymaya çalışsa bile), doğal olarak evrilmişlerdir.
 
-Biçimsel diller insanlar tarafından özel uygulamalar için geliştirilmiş dillerdir. 
+::: details
+Biçimsel diller insanlar tarafından özel uygulamalar için geliştirilmiş dillerdir.
 Örneğin, matematikçilerin kullandığı gösterim (notasyon), sayılar ve semboller arasındaki ilişkiyi göstermek için iyi bir biçimsel dildir. Kimyacılar, moleküllerün kimyasal yapısını göstermek için biçimsel dili kullanırlar. Ve en önemlisi:
 
     Programlama dilleri hesaplamaları ifade etmek için tasarlanmış biçimsel dillerdir.
@@ -73,6 +74,7 @@ düzyazı:
     Kelimelerin gerçek anlamı daha önemlidir ve yapı anlama daha fazla katkı sağlar. Düzyazının çözümlenmesi şiire göre daha kolaydır ancak yine de belirsizlik içerebilir.
 program:
     Bilgisayar programının anlamı belirli (tek anlamlı) ve gerçek olmalıdır; token ve yapının çözümlenmesi ile tamamen anlaşılmalıdır.
+:::
 
 ## Problem Çözerek Öğrenme
 
@@ -87,4 +89,3 @@ Dersleri Takip Etmek için codewars ve kaggle hesabı açın.
 Kodlayarak öğreten <a href="//www.codewars.com/r/VHz6ew" target="_blank" rel="noreferrer">CodeWars Hesabı Aç</a>
 
 Python Eğitim Platformu [Kaggle Hesabı Aç](https://www.kaggle.com/learn)
-

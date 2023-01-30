@@ -22,8 +22,16 @@ export default {
         text: "Gramer",
         items: [
           {
-            text: "İfadeler",
+            text: "Cümle Yapısı",
             link: "/02_gramer/01_cumle-yapisi"
+          },
+          {
+            text: "Kelimeler",
+            link: "/02_gramer/02_kelimeler"
+          },
+          {
+            text: "Dilin Parçaları",
+            link: "/02_gramer/03_dilin-parcalari"
           },
         ],
       },
