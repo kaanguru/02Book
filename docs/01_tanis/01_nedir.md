@@ -10,6 +10,8 @@ Fayton şeklinde okunur.
 
 [Python Nedir?](https://www.pythontr.com/makale/python-nedir-235)
 
+[Python İndir](https://www.python.org/)
+
 ## Verilerin Dili
 
 [Pandas](https://pandas.pydata.org/docs/getting_started/index.html#getting-started)
@@ -20,4 +22,4 @@ Fayton şeklinde okunur.
 * Intel Edison
 * Arduino
 
-![IoT Geliştirici](./iot-path.jpg)
+![IoT Geliştirici](./img/iot-path.jpg)

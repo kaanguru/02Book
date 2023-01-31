@@ -9,3 +9,11 @@ Bu **başvuru kılavuzu**, dilin sözdizimini ve “temel anlambilimini” açı
 ::: tip
 [Bölüm Sonu Problemi](https://www.codewars.com/kata/5b077ebdaf15be5c7f000077)
 :::
+
+## Selam Dünya
+
+Her programlama dil eğitimi "Hello World" yazdırmakla başlar.
+
+```python
+print("Selâm'ın Aleyküm")
+```

@@ -16,6 +16,10 @@ export default {
             text: "Dökümanlar",
             link: "/01_tanis/02_dokumanlar.md"
           },
+          {
+            text: "Araçlar",
+            link: "/01_tanis/03_araclar.md"
+          },
         ],
       },
       {
