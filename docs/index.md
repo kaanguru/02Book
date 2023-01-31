@@ -3,7 +3,7 @@ layout: home
 
 hero:
   name: Kodlamaya Başlangıç
-  text: Yeni Başlayanlar için Bilgisayar Programcılığı 
+  text: Python'la IoT Programcılığı 
   tagline: Problem Çözerek bilgisayar programları yazmayı öğrenelim
   image:
     src: /logo.png

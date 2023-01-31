@@ -20,3 +20,4 @@ Fayton şeklinde okunur.
 * Intel Edison
 * Arduino
 
+![IoT Geliştirici](./iot-path.jpg)
