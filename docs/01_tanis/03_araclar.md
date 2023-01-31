@@ -10,14 +10,14 @@ Kurulum esnasında PATH dizinine eklenecek
 
 ![code](./img/visualstudiocodelogo.png)
 
-As a professional developer, you will use an IDE (Integrated Development Environment) and most certainly [Visual Studio Code](https://code.visualstudio.com/)
+Profesyonel bir geliştirici olarak, bir IDE (Tümleşik Geliştirme Ortamı) kullanacaksınız ve [Visual Studio Code](https://code.visualstudio.com/) benim kullandığım IDE
 
-* Syntax Coloring
-* Error and Warning Marks
-* Format Document
+* Sözdizimi Renklendirme
+* Hata ve Uyarı İşaretleri
+* Belgeyi Biçimlendir
 
-**Git Support:** Resources can be pulled from Git Hub Repo online and vice-versa; saving can be done too. Resource pulling also means cloning the code which is made available on the internet. This code can later be changed and saved.
+****Git Desteği:** Kaynaklar Git Hub Repo'dan çevrimiçi olarak çekilebilir ve bunun tersi de geçerlidir; tasarruf da yapılabilir. Kaynak çekme, internette kullanıma sunulan kodun klonlanması anlamına da gelir. Bu kod daha sonra değiştirilebilir ve kaydedilebilir.
 
-**Terminal Support:** Most of the times, the user needs to start from the root of the directory to start with a particular action, in-built terminal or console provides user support to not to switch in-between two screens for the same.
+**Terminal Desteği:** Çoğu zaman, kullanıcının belirli bir eylemle başlamak için dizinin kökünden başlaması gerekir, yerleşik terminal veya konsol, aynı iki ekran arasında geçiş yapmamak için kullanıcı desteği sağlar.
 
-**Intelli-Sense:** It can detect if any snippet of code is left incomplete. Also, common variable syntaxes and variable declarations are made automatically. Ex: If a certain variable is being used in the program and the user has forgotten to declare, intelli-sense will declare it for the user.
+**Intelli-Sense:** Herhangi bir kod parçacığının eksik bırakılıp bırakılmadığını algılayabilir. Ayrıca, ortak değişken sözdizimleri ve değişken bildirimleri otomatik olarak yapılır. Ör: Programda belirli bir değişken kullanılıyorsa ve kullanıcı bildirmeyi unuttuysa, ıntellisense bunu kullanıcı için bildirir.
