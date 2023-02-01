@@ -9,3 +9,6 @@
     --vp-c-yellow: #F2DB4B;
 
   }
+  .has-outline nav li {
+    padding: 1rem 0rem;
+  }

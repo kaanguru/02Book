@@ -24,6 +24,7 @@ def yil_mi(yil,ay,gun,saat,dakika,saniye):
         return 1
 yil_mi(1950,5,30,4,5,33)
 ```
+
 ## Örtük çizgi birleştirme
 
 ```python
