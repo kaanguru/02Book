@@ -16,7 +16,7 @@ Profesyonel bir geliştirici olarak, bir IDE (Tümleşik Geliştirme Ortamı) ku
 * Hata ve Uyarı İşaretleri
 * Belgeyi Biçimlendir
 
-****Git Desteği:** Kaynaklar Git Hub Repo'dan çevrimiçi olarak çekilebilir ve bunun tersi de geçerlidir; tasarruf da yapılabilir. Kaynak çekme, internette kullanıma sunulan kodun klonlanması anlamına da gelir. Bu kod daha sonra değiştirilebilir ve kaydedilebilir.
+**Git Desteği:** Kaynaklar Git Hub Repo'dan çevrimiçi olarak çekilebilir ve bunun tersi de geçerlidir; tasarruf da yapılabilir. Kaynak çekme, internette kullanıma sunulan kodun klonlanması anlamına da gelir. Bu kod daha sonra değiştirilebilir ve kaydedilebilir.
 
 **Terminal Desteği:** Çoğu zaman, kullanıcının belirli bir eylemle başlamak için dizinin kökünden başlaması gerekir, yerleşik terminal veya konsol, aynı iki ekran arasında geçiş yapmamak için kullanıcı desteği sağlar.
 
