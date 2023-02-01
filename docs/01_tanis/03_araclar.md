@@ -6,6 +6,8 @@
 
 Kurulum esnasında PATH dizinine eklenecek
 
+![Windows Kurulum Ekranı](./img/kur.png)
+
 ## Visual Studio Code
 
 ![code](./img/visualstudiocodelogo.png)
@@ -21,3 +23,7 @@ Profesyonel bir geliştirici olarak, bir IDE (Tümleşik Geliştirme Ortamı) ku
 **Terminal Desteği:** Çoğu zaman, kullanıcının belirli bir eylemle başlamak için dizinin kökünden başlaması gerekir, yerleşik terminal veya konsol, aynı iki ekran arasında geçiş yapmamak için kullanıcı desteği sağlar.
 
 **Intelli-Sense:** Herhangi bir kod parçacığının eksik bırakılıp bırakılmadığını algılayabilir. Ayrıca, ortak değişken sözdizimleri ve değişken bildirimleri otomatik olarak yapılır. Ör: Programda belirli bir değişken kullanılıyorsa ve kullanıcı bildirmeyi unuttuysa, ıntellisense bunu kullanıcı için bildirir.
+
+## Internet
+
+<https://visualgo.net/en/sorting>

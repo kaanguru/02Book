@@ -12,6 +12,10 @@ Fayton şeklinde okunur.
 
 [Python İndir](https://www.python.org/)
 
+Kurulum esnasında PATH dizinine eklenecek
+
+![Windows Kurulum Ekranı](./img/kur.png)
+
 ## Verilerin Dili
 
 [Pandas](https://pandas.pydata.org/docs/getting_started/index.html#getting-started)
