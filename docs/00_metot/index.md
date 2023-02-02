@@ -14,14 +14,14 @@ Bu yöntemle başlarda çok yavaş ilerleyeceksiniz. Sonra da gittikçe zorlaşa
 
 İlk bölüm sonunda; python ile Tetris oyunu yazabilen, *çok aranan* , **istediği programı inşa edebilecek** bir bilgisayar programcısı olacaksınız. [neler öğrenilecek](#neler-öğrenilecek)
 
-**Örneğin**: Strings konusu sadece yönlendirmeleriyle sorun çözerek 
+**Örneğin**: Strings konusu sadece yönlendirmeleriyle sorun çözerek
 
 ::: info
 Rusya'da konuşmak zorunda olduğum için rusça konuşabiliyorum.
 Defaatle Arapça öğrenme girişiminde bulundum ancak yeterli motivasyon bulamadığım için bugün konuşamıyorum.
 :::
 
-Eğer kendinizi _kod okumaya ve yazmaya_  zorlamazsanız öğrenemezsiniz.
+Eğer kendinizi *kod okumaya ve yazmaya*  zorlamazsanız öğrenemezsiniz.
 
 **PROBLEM ÇÖZEREK ÖĞRENME METODUNDA:** "Bana bunlar öğretilmedi" demeyeceğiniz şekilde, adım adım öğrendikçe görevleri tamamlamanız ve KODLAYARAK ilerlemeniz gerekiyor.
 
@@ -38,7 +38,7 @@ Karşılaştığınız sorunların her zaman onlarca çözümü olacak. Sorunu n
 Harfleri bilmeden çok önce İngilizce konuşulanları anlayabiliyorlardı. Evde 3 dil konuşuluyordu, haliyle çocuklar bizi taklit ederek 3 dili de öğrendiler. Ben eşimle İngilizce konuştuğum için onlar da İngilizce öğrendiler. Evde televizyon olmadığı için Türkçe, Rusça, İngilizce çizgi filmler izlediler.
 :::
 
-Videolarla kavramları anlayışınızı sağlamlaştırın. Ama _programlamayı bilmek_ ile usta bir problem çözücü olmak için daha fazlasına ihtiyacın var.
+Videolarla kavramları anlayışınızı sağlamlaştırın. Ama *programlamayı bilmek* ile usta bir problem çözücü olmak için daha fazlasına ihtiyacın var.
 
 Hata yapmaktan korkmadan, basit problemlerle boğuşmak gerek. Lütfen vereceğim sırayla alıştırmalardan mümkün olduğunca fazlasını yapın.
 
@@ -93,13 +93,13 @@ Hiç bir işe yaramayacağını düşündüğünüz basit projeler tamamlayarak 
 Kurs boyunca en az 10 yeni uygulama projesi yapmanız gerekecek
 
 1. Sihirli hikaye yazarı
-1. Sayı Tahmin Oyunu 
-1. Tahmin bulma robotu 
-1. Taş Kağıt Makas oyunu 
-1. Adam Asmaca oyunu 
-1. İsim şehir oyunu 
+1. Sayı Tahmin Oyunu
+1. Tahmin bulma robotu
+1. Taş Kağıt Makas oyunu
+1. Adam Asmaca oyunu
+1. İsim şehir oyunu
 1. Haşlanmış yumurta çay demleme yardımcısı
-1. Şifre oluşturucu 
+1. Şifre oluşturucu
 1. QR kod okuyucu ve oluşturucu
 1. Tetris
 
@@ -110,7 +110,6 @@ Kursun ikinci bölümünde 5 Arduino projelere geçeceğiz.
 1. Trafik Işık kontrol paneli
 1. Kablolu Analog Game Pad
 
-
 ### Soru sormaya korkma
 
 Telegram gurubumuzda sorularınızı cevaplayacak birileri her zaman olacak.
@@ -119,7 +118,7 @@ Dünyadaki geliştiricilerin % 70'inin ana dili İngilizce değil.
 
 Her bilgisayar programcısı günde en az bir kere, çözemeyeceklerine inandıkları sorunlarla karşılaşır. Sorulara cevap bulabilmek için günde 2-3 defa [StackOverFlow](https://stackoverflow.com/) sitesinde arama yapar.
 
-Cevapları verenlerin, _soruları soranlar gibi_, ana dilleri İngilizce değil.
+Cevapları verenlerin, *soruları soranlar gibi*, ana dilleri İngilizce değil.
 İngilizce seviyenize güvenmiyor olsanız bile yeterince İngilizce biliyorsunuzdur.
 
 ChatGPT ve [github copilot](https://github.com/features/copilot) gibi yapay zeka kod yazıcıları da bu siteleri kullanıyor.
@@ -132,7 +131,6 @@ Dillerin nasıl işlediğini anlamanın önemli olduğuna inanıyorum. Bu yüzde
 
 <div style="max-width:854px"><div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://embed.ted.com/talks/lang/en/gareth_gaskell_how_do_our_brains_process_speech" width="854" height="480" style="position:absolute;left:0;top:0;width:100%;height:100%" frameborder="0" scrolling="no" allowfullscreen></iframe></div>
 </div>
-
 
 ### Biçimsel ve doğal diller
 
@@ -168,9 +166,9 @@ Tokenlar dizilirken hata yapılabilir. `3=+6$` ifadesiyle ilgili bir sorun, $ se
 
 Biçimsel bir dildeki veya Türkçe’deki bir cümleyi okuduğunuzda, cümlenin yapısını çözmek gerekir (doğal dillerde bunu bilinçiz bir şekilde yaparız.) Bu sürece ayrıştırma ( parsing) denir.
 
-**Örneğin**, “Ayaklarıma kara sular indi” cümlesini dudyuğunuzda, “ayaklarıma”nın özne, “indi“‘nin de yüklem olduğunu anlarsınız. Cümleyi ayrıştırdığınızda, cümlenin ne anlama geldiğini ( cümlenin anlambilimini) çözersiniz. “Ayak”ın en olduğunu ve “indi” eyleminin anlamını bildiğinizi varsayarsak, bu cümleyle kastedilen anlamı ortaya çıkarabilirsiniz.
+**Örneğin**, “Ayaklarıma kara sular indi” cümlesini duyduğunuzda, “ayaklarıma”nın özne, “indi“‘nin de yüklem olduğunu anlarsınız. Cümleyi ögelerine ayırdığınızda, cümlenin ne anlama geldiğini ( cümlenin anlam-bilimini) çözersiniz. “Ayak”ın en olduğunu ve “indi” eyleminin anlamını bildiğinizi var sayarsak, bu cümleyle kastedilen anlamı ortaya çıkarabilirsiniz.
 
-Her ne kadar biçimsel ve doğal diller birçok ortak özelliğe —tokenlar, yapı, sözdizimi, anlambilim— sahip olsa da, birçok **farklılıkları** da vardır:
+Her ne kadar biçimsel ve doğal diller birçok ortak özelliğe (tokenlar, yapı, söz-dizimi, anlam-bilim) sahip olsa da, birçok **farklılıkları** da vardır:
 
 **Belirsizlik**:
 
@@ -195,10 +193,13 @@ Doğal dilleri konuşarak büyüyen kişiler —herkes— biçimsel dillere alı
 
 Bazı yönlerden, biçimsel dil ile doğal dil arasındaki fark, düz-yazı ile şiir arasındaki fark gibidir. Ancak:
 
-Şiir:
-    Kelimeler anlamları olduğu kadar sesleri için de kullanılır ve tüm şiir bir etki veya duygusal bir tepki yaratır. Belirsizlik yaygın olmasının yanında, sıklıkla bir gerekliliktir.
-Düz-yazı:
-    Kelimelerin gerçek anlamı daha önemlidir ve yapı anlama daha fazla katkı sağlar. Düz-yazının çözümlenmesi şiire göre daha kolaydır ancak yine de belirsizlik içerebilir.
+#### Şiir
+
+Kelimeler anlamları olduğu kadar sesleri için de kullanılır ve tüm şiir bir etki veya duygusal bir tepki yaratır. Belirsizlik yaygın olmasının yanında, sıklıkla bir gerekliliktir.
+
+#### Düz-yazı
+
+Kelimelerin gerçek anlamı daha önemlidir ve yapı anlama daha fazla katkı sağlar. Düz-yazının çözümlenmesi şiire göre daha kolaydır ancak yine de belirsizlik içerebilir.
 Program:
     Bilgisayar programının anlamı belirli (tek anlamlı) ve gerçek olmalıdır; token ve yapının çözümlenmesi ile tamamen anlaşılmalıdır.
 :::
@@ -207,7 +208,7 @@ Program:
 
 Bir dil öğrenirken o dilin kelimelerini ezberlemek yada gramer kurallarına çalışmak  yerine dili konuşmak gerekir.
 
-İnsanlık bilgisi dille ifade edilir, bu yüzden _kodlama eğitim yöntemimi_ geliştirirken; yazılım dillerini yazılı ve sözlü bir dil perspektifinden anlamaya çalıştım.
+İnsanlık bilgisi dille ifade edilir, bu yüzden *kodlama eğitim yöntemimi* geliştirirken; yazılım dillerini yazılı ve sözlü bir dil perspektifinden anlamaya çalıştım.
 
 ::: info
 Dersleri Takip Etmek için codewars ve kaggle hesabı açın.
