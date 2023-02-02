@@ -1,12 +1,15 @@
 :root {
     --vp-c-brand: #6C9D67;
-    --vp-c-brand-light: #F2DB4B;
+    --vp-c-brand-light: #ffd545;
     --vp-c-white: #FCEEF9;
     --vp-c-black: #313428;
     --vp-c-green: #6C9D67;
     --vp-c-gray: #d1d1d1;
     --vp-c-red: #CA2E55;
-    --vp-c-yellow: #F2DB4B;
+    --vp-c-yellow: #ffd545;
+    --vp-button-brand-border: #ffd545;
+    --vp-button-brand-hover-bg: #84c67d;
+    --vp-button-brand-hover-text: #4a5b48;
 
   }
   .has-outline nav li {

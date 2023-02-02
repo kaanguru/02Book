@@ -6,7 +6,7 @@ Eğer İngilizce **konuşabilmek** istiyorsanız, birinin size İngilizce gramer
 
 Nasıl, şan eğitimi için eve şarkıcı çağırıp şarkı dinlemenin çok faydası olmayacaksa, nasıl kimse piyano çalmayı öğrenmek için eve piyanist şantör çağırıp günde bir iki saat şarkı dinleyip göndermiyorsa, programlama dillerini de sadece video seyrederek öğrenmek mümkün değildir.
 
-::: danger uyarı
+::: danger UYARI
 HER KONU SADECE KOD YAZARAK ÖĞRENİLECEK
 :::
 
@@ -25,11 +25,11 @@ Eğer kendinizi *kod okumaya ve yazmaya*  zorlamazsanız öğrenemezsiniz.
 
 **PROBLEM ÇÖZEREK ÖĞRENME METODUNDA:** "Bana bunlar öğretilmedi" demeyeceğiniz şekilde, adım adım öğrendikçe görevleri tamamlamanız ve KODLAYARAK ilerlemeniz gerekiyor.
 
-Bu metot size seviye seviye artırılmış kodlama problemleri vererek ilerleyecek.
+**Bu metot** : seviye seviye artırılmış  kodlama problemleri vererek öğretir👨🏼‍🏫
 
 ## Bir dili baştan sona öğrenmeye çalışmayın
 
-Bir dili baştan sonra öğrenmeye çalışmak imkansızdır. Dilin geliştiricileri bile sadece bildikleri bölümleri kullanarak program yazarlar.
+Bir dili baştan sonra öğrenmeye çalışmak imkansızdır. Dilin geliştiricileri bile, sadece bildikleri bölümleri kullanarak program yazarlar.
 
 Karşılaştığınız sorunların her zaman onlarca çözümü olacak. Sorunu nasıl çözdüğü bireylere göre değişiklik gösterir. [Bknz: Çevik Yazılım Geliştirme Manifestosu](https://agilemanifesto.org/iso/tr/manifesto.html)
 
@@ -46,44 +46,24 @@ Hata yapmaktan korkmadan, basit problemlerle boğuşmak gerek. Lütfen vereceği
 Korkma Kodla
 :::
 
-## 20 Yıllık Deneyim
+## 21 Yıllık Deneyim
 
 2002 yılından beri profesyonel olarak bilgisayar programcılığından para kazanıyorum.
 
-### Bildiğim Diller
+ [Cem Kaan](/cemkaan)
 
-[C Benzeri Dillerin çoğu](https://en.wikipedia.org/wiki/List_of_C-family_programming_languages)
+## Neler Gerekiyor
 
-### Uzman Olduğum Diller
-
-1. Dart
-1. PHP
-1. JavaScript - TypeScript
-1. CSS - Sass
-
-#### Diğer Bildiğim Diller
-
-|  10'dan Fazla Proje Yaptıklarım| Bir Kaç Proje Yaptıklarım | Öğrendiklerim |
-| -------------------------------| ------------------------- | ------------- |
-|  SQL                           |   Python                  |  Haskell      |  
-|  C++                           |   Lua                     |  F#           |
-|  Ruby                          |   Perl                    |  Elm          |
-|  Kotlin                        |   C#                      |  Scala        |
-|  Java                          |                           |  Rust         |
-|  ActionScript                  |                           |               |
-|  GO                            |                           |               |
-
-## Neler Bilmeniz Gerekiyor
-
+* Bilgisayar: Notebook veya Masaüstü bilgisayarla kod yazacaksınız
 * Temel masaüstü bilgisayar kullanma
-* İngilizce okuduğunu anlama
+* İngilizce: okuduğunu anlayacak kadar
 
 ## Kurs kimin için
 
+* KODLAMA SEVMEYENLER
 * Bilgisayar Programlamaya en baştan başlayanlar
 * Daha önce program yazmayı denemiş ve bırakmış olanlar
 * Nereden başlayacağına karar veremeyenler
-* KODLAMA SEVMEYENLER
 * Kodlamayı beceremediğini düşünenler
 
 ## Neler Öğrenilecek
@@ -132,7 +112,7 @@ Dillerin nasıl işlediğini anlamanın önemli olduğuna inanıyorum. Bu yüzde
 <div style="max-width:854px"><div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://embed.ted.com/talks/lang/en/gareth_gaskell_how_do_our_brains_process_speech" width="854" height="480" style="position:absolute;left:0;top:0;width:100%;height:100%" frameborder="0" scrolling="no" allowfullscreen></iframe></div>
 </div>
 
-### Biçimsel ve doğal diller
+### Biçimsel ve Doğal Diller
 
 Doğal diller konuştuğumuz dillerdir; Türkçe, İngilizce, İspanyolca ve Fransızca gibi.
 
@@ -146,7 +126,7 @@ Doğal diller insanlar tarafından tasarlanmamıştır (insanlar bunlar için ku
 </iframe></div>
 </div>
 
-::: details detaylar
+::: details Diller Detay
 Biçimsel diller insanlar tarafından özel uygulamalar için geliştirilmiş dillerdir.
 Örneğin, matematikçilerin kullandığı gösterim (notasyon), sayılar ve semboller arasındaki ilişkiyi göstermek için iyi bir biçimsel dildir. Kimyacılar, moleküllerin kimyasal yapısını göstermek için biçimsel dili kullanırlar. Ve en önemlisi:
 

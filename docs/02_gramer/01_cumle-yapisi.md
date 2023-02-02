@@ -1,4 +1,3 @@
-
 # Cümle yapısı (Sözcüksel analiz)
 
     Sözcüksel analiz

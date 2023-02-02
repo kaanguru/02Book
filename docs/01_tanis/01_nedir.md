@@ -1,7 +1,9 @@
 # Python Nedir?
 
+![Python](/python_480px.png)
+
 ::: info
-Programcılığa başlamak için en iyi dillerden biri Python, diğeri JavaScript'tir
+Programcılığa başlamak için en iyi dillerden biri Python, diğeri JavaScript'dir.
 :::
 
 Fayton şeklinde okunur.
@@ -12,7 +14,7 @@ Fayton şeklinde okunur.
 
 [Python İndir](https://www.python.org/)
 
-Kurulum esnasında PATH dizinine eklenecek
+**Kurulum** esnasında PATH dizinine eklenecek
 
 ![Windows Kurulum Ekranı](./img/kur.png)
 
@@ -22,7 +24,7 @@ Kurulum esnasında PATH dizinine eklenecek
 
 ## Nesnelerin Dili
 
-* Raspberry Pi Model 3
+* [Raspberry Pi Model 3](https://www.raspberrypi.com/)
 * Intel Edison
 * Arduino
 
