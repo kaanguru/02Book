@@ -1,41 +1,133 @@
 # Programlama Eğitim Yöntemim
 
+Bir video serisini baştan sona seyretmek size çok az şey öğretir. Sadece eğitim videoları seyretmek, eve bir programcı çağırıp,hava atmak için bildiklerini anlatmasını seyretmek gibidir.
+
+Eğer İngilizce **konuşabilmek** istiyorsanız, birinin size İngilizce gramerini anlatması çok işinize yaramayacaktır.
+
+Nasıl, şan eğitimi için eve şarkıcı çağırıp şarkı dinlemenin çok faydası olmayacaksa, nasıl kimse piyano çalmayı öğrenmek için eve piyanist şantör çağırıp günde bir iki saat şarkı dinleyip göndermiyorsa, programlama dillerini de sadece video seyrederek öğrenmek mümkün değildir.
+
+::: info
+Rusya'da konuşmak zorunda olduğum için rusça konuşabiliyorum.
+Defaatle Arapça öğrenme girişiminde bulundum ancak yeterli motivasyon bulamadığım için bugün konuşamıyorum.
+:::
+
+Eğer kendinizi _kod okumaya ve yazmaya_  zorlamazsanız öğrenemezsiniz.
+
+**PROBLEM ÇÖZEREK ÖĞRENME METODUNDA:** "Bana bunlar öğretilmedi" demeyeceğiniz şekilde, adım adım öğrendikçe görevleri tamamlamanız ve KODLAYARAK ilerlemeniz gerekiyor.
+
+Bu metot size seviye seviye artırılmış kodlama problemleri vererek ilerleyecek.
+
+## Bir dili baştan sona öğrenmeye çalışmayın
+
+Bir dili baştan sonra öğrenmeye çalışmak imkansızdır. Dilin geliştiricileri bile sadece bildikleri bölümleri kullanarak program yazarlar.
+
+Karşılaştığınız sorunların her zaman onlarca çözümü olacak. Sorunu nasıl çözdüğü bireylere göre değişiklik gösterir. [Bknz: Çevik Yazılım Geliştirme Manifestosu](https://agilemanifesto.org/iso/tr/manifesto.html)
+
+::: tip
+Çocuklarım çift ana dilli. Rusça ve Türkçeyi aynı anda **konuşarak** öğrendiler. Kimse onlara türkçe rusça veya İngilizce gramer kurallarını öğretmedi.
+Harfleri bilmeden çok önce İngilizce konuşulanları anlayabiliyorlardı. Evde 3 dil konuşuluyordu, haliyle çocuklar bizi taklit ederek 3 dili de öğrendiler. Ben eşimle İngilizce konuştuğum için onlar da İngilizce öğrendiler. Evde televizyon olmadığı için Türkçe, Rusça, İngilizce çizgi filmler izlediler.
+:::
+
+Videolarla kavramları anlayışınızı sağlamlaştırın. Ama _programlamayı bilmek_ ile usta bir problem çözücü olmak için daha fazlasına ihtiyacın var.
+
+Hata yapmaktan korkmadan, basit problemlerle boğuşmak gerek. Lütfen vereceğim sırayla alıştırmalardan mümkün olduğunca fazlasını yapın.
+
+::: danger
+Korkma Kodla
+:::
+
 ## 20 Yıllık Deneyim
 
-![Cem Kaan](./profile.png)
+2002 yılından beri profesyonel olarak bilgisayar programcılığından para kazanıyorum.
 
-## Ne bilmek gerekiyor
+### Bildiğim Diller
 
-* Temel bilgisayar bilgisi
+[C Benzeri Dillerin çoğu](https://en.wikipedia.org/wiki/List_of_C-family_programming_languages)
+
+### Uzman Olduğum Diller
+
+1. Dart
+1. PHP
+1. JavaScript - TypeScript
+1. CSS - Sass
+
+#### Diğer Bildiğim Diller
+
+|  10'dan Fazla Proje Yaptıklarım| Bir Kaç Proje Yaptıklarım | Öğrendiklerim |
+| -------------------------------| ------------------------- | ------------- |
+|  SQL                           |   Python                  |  Haskell      |  
+|  C++                           |   Lua                     |  F#           |
+|  Ruby                          |   Perl                    |  Elm          |
+|  Kotlin                        |   C#                      |  Scala        |
+|  Java                          |                           |  Rust         |
+|  ActionScript                  |                           |               |
+|  GO                            |                           |               |
+
+## Neler Bilmeniz Gerekiyor
+
+Ders boyunca en az 10 yeni uygulama projesi yapmanız gerekecek
+
+* Temel masaüstü bilgisayar kullanma
 * İngilizce okuduğunu anlama
 
 ## Kurs kimin için
 
-* Bilgisayar Programlaya en baştan başlayanlar
-* Python daha önce duymuş olanlar
-* Nerden başlayacağına karar veremeyenler
+* Bilgisayar Programlamaya en baştan başlayanlar
+* Daha önce program yazmayı denemiş ve bırakmış olanlar
+* Nereden başlayacağına karar veremeyenler
+* KODLAMA SEVMEYENLER
+* Kodlamayı beceremediğini düşünenler
 
-### Dünyadaki geliştiricilerin % 70'inin ana dili ingilizce değildir
+### Soru sormaya korkma
 
-## Dilbilimsel Yaklaşımla Dil Öğrenme
+Telegram gurubumuzda sorularınızı cevaplayacak birileri her zaman olacak.
+
+Dünyadaki geliştiricilerin % 70'inin ana dili İngilizce değil.
+
+Her bilgisayar programcısı günde en az bir kere, çözemeyeceklerine inandıkları sorunlarla karşılaşır. Sorulara cevap bulabilmek için günde 2-3 defa [StackOverFlow](https://stackoverflow.com/) sitesinde arama yapar.
+
+Cevapları verenlerin, _soruları soranlar gibi_, ana dilleri İngilizce değil.
+İngilizce seviyenize güvenmiyor olsanız bile yeterince İngilizce biliyorsunuzdur.
+
+ChatGPT ve [github copilot](https://github.com/features/copilot) gibi yapay zeka kod yazıcıları da bu siteleri kullanıyor.
+
+## Dil-bilimsel Yaklaşımla Dil Öğrenme
 
 Dillerin nasıl işlediğini anlamanın önemli olduğuna inanıyorum. Bu yüzden bu kursu dil eğitimi gibi organize etmek için zaman harcıyorum.
 
+**Konuşmayı Nasıl Anlıyoruz?**
+
+<div style="max-width:854px"><div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://embed.ted.com/talks/lang/en/gareth_gaskell_how_do_our_brains_process_speech" width="854" height="480" style="position:absolute;left:0;top:0;width:100%;height:100%" frameborder="0" scrolling="no" allowfullscreen></iframe></div>
+</div>
+
+
 ### Biçimsel ve doğal diller
 
-Doğal diller konuştuğumuz dillerdir; Türkçe, İngilizce, İspanyolca ve Fransızca gibi. Doğal diller insanlar tarafından tasarlanmamıştır (insanlar bunlar için kurallar koymaya çalışsa bile), doğal olarak evrilmişlerdir.
+Doğal diller konuştuğumuz dillerdir; Türkçe, İngilizce, İspanyolca ve Fransızca gibi.
 
-::: details
+Doğal diller insanlar tarafından tasarlanmamıştır (insanlar bunlar için kurallar koymaya çalışsa bile), doğal olarak evrilmişlerdir.
+
+**Gramer Kuralları Fark eder mi?**
+
+<div style="max-width:854px">
+<div style="position:relative;height:0;padding-bottom:56.25%">
+<iframe src="https://embed.ted.com/talks/lang/en/andreea_s_calude_does_grammar_matter" width="854" height="480" style="position:absolute;left:0;top:0;width:100%;height:100%" frameborder="0" scrolling="no" allowfullscreen>
+</iframe></div>
+</div>
+
+::: details detaylar
 Biçimsel diller insanlar tarafından özel uygulamalar için geliştirilmiş dillerdir.
-Örneğin, matematikçilerin kullandığı gösterim (notasyon), sayılar ve semboller arasındaki ilişkiyi göstermek için iyi bir biçimsel dildir. Kimyacılar, moleküllerün kimyasal yapısını göstermek için biçimsel dili kullanırlar. Ve en önemlisi:
+Örneğin, matematikçilerin kullandığı gösterim (notasyon), sayılar ve semboller arasındaki ilişkiyi göstermek için iyi bir biçimsel dildir. Kimyacılar, moleküllerin kimyasal yapısını göstermek için biçimsel dili kullanırlar. Ve en önemlisi:
 
     Programlama dilleri hesaplamaları ifade etmek için tasarlanmış biçimsel dillerdir.
 
-Biçimsel diller sözdizimi açısından katı kurallara sahip olma eğilimindedir.
+Biçimsel diller söz-dizimi açısından katı kurallara sahip olma eğilimindedir.
 
-Örneğin `3+3=6` ifadesi matematiksel sözdizimsel ifadedir, ancak `3=+6$` değildir. H20 sözdizimi kimya için doğrudur, fakat `2Zz` geçerli değildir, çünkü `Zz` kısaltmasına sahip bir element yoktur.
+Örneğin `3+3=6` ifadesi matematiksel söz-dizimsel ifadedir, ancak `3=+6$` değildir. H20 söz-dizimi kimya için doğrudur, fakat `2Zz` geçerli değildir, çünkü `Zz` kısaltmasına sahip bir element yoktur.
 
-Sözdizimsel kurallar tokenlere ve yapıya ait olmak üzere iki türdedir. Token’lar dilin temel öğeleridir; kelimeler, sayılar, parantezler, virgül, gibi. Python’da, print ("Hoşgeldin Yeni Yıl", 2013) gibi bir ifade 6 tane token vardır. Bunlar: fonksiyon ismi, açılış parentezi, cümle, virgül, sayı ve kapanış parentezi dir.
+Söz-dizimsel kurallar tokenlere (jetonlara) ve yapıya ait olmak üzere iki türdedir. Token’ler dilin temel ögeleridir; kelimeler, sayılar, parantezler, virgül, gibi.
+
+Python’da, `print("Hoş geldin Yeni Yıl", 2023)` gibi bir ifade 6 tane token vardır. **Bunlar**: fonksiyon ismi (`print`), açılış parantezi(`(`), cümle (`Ho...`), virgül ( `,` ), sayı (`2023`) ve kapanış parantezi ( `)` ) dir.
 
 Tokenlar dizilirken hata yapılabilir. `3=+6$` ifadesiyle ilgili bir sorun, $ sembolü matematikte geçerli bir token değildir (bildiğim kadarıyla.) Benzer olarak, 2Zz ifadesi de geçerli değildir çünkü Zz kısaltmasına sahip bir element yoktur.
 
@@ -66,13 +158,15 @@ Her ne kadar biçimsel ve doğal diller birçok ortak özelliğe —tokenlar, ya
     Bunun gizli bir anlamı vardır ve kişinin yorgun olduğunu belirtir. 
     Biçimsel dillerde cümlenin gerçeği aynen yansıtması gerekir, anlamı yazılanla aynı olmalıdır.
 
-Doğal dilleri konuşarak büyüyen kişiler —herkes— biçimsel dillere alışmaktar zorlanabilirler. Bu bazı yönlerden, biçimsel dil ile doğal dil arasındaki fark, düzyazı ile şiir arasındaki fark gibidir. Ancak:
+Doğal dilleri konuşarak büyüyen kişiler —herkes— biçimsel dillere alışmakta zorlanabilirler.
 
-şiir:
+Bazı yönlerden, biçimsel dil ile doğal dil arasındaki fark, düz-yazı ile şiir arasındaki fark gibidir. Ancak:
+
+Şiir:
     Kelimeler anlamları olduğu kadar sesleri için de kullanılır ve tüm şiir bir etki veya duygusal bir tepki yaratır. Belirsizlik yaygın olmasının yanında, sıklıkla bir gerekliliktir.
-düzyazı:
-    Kelimelerin gerçek anlamı daha önemlidir ve yapı anlama daha fazla katkı sağlar. Düzyazının çözümlenmesi şiire göre daha kolaydır ancak yine de belirsizlik içerebilir.
-program:
+Düz-yazı:
+    Kelimelerin gerçek anlamı daha önemlidir ve yapı anlama daha fazla katkı sağlar. Düz-yazının çözümlenmesi şiire göre daha kolaydır ancak yine de belirsizlik içerebilir.
+Program:
     Bilgisayar programının anlamı belirli (tek anlamlı) ve gerçek olmalıdır; token ve yapının çözümlenmesi ile tamamen anlaşılmalıdır.
 :::
 
