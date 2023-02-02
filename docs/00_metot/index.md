@@ -6,6 +6,16 @@ Eğer İngilizce **konuşabilmek** istiyorsanız, birinin size İngilizce gramer
 
 Nasıl, şan eğitimi için eve şarkıcı çağırıp şarkı dinlemenin çok faydası olmayacaksa, nasıl kimse piyano çalmayı öğrenmek için eve piyanist şantör çağırıp günde bir iki saat şarkı dinleyip göndermiyorsa, programlama dillerini de sadece video seyrederek öğrenmek mümkün değildir.
 
+::: danger uyarı
+HER KONU SADECE KOD YAZARAK ÖĞRENİLECEK
+:::
+
+Bu yöntemle başlarda çok yavaş ilerleyeceksiniz. Sonra da gittikçe zorlaşacak. Ama gün geçtikçe daha karışık programlar yazabileceksiniz.
+
+İlk bölüm sonunda; python ile Tetris oyunu yazabilen, *çok aranan* , **istediği programı inşa edebilecek** bir bilgisayar programcısı olacaksınız. [neler öğrenilecek](#neler-öğrenilecek)
+
+**Örneğin**: Strings konusu sadece yönlendirmeleriyle sorun çözerek 
+
 ::: info
 Rusya'da konuşmak zorunda olduğum için rusça konuşabiliyorum.
 Defaatle Arapça öğrenme girişiminde bulundum ancak yeterli motivasyon bulamadığım için bugün konuşamıyorum.
@@ -65,8 +75,6 @@ Korkma Kodla
 
 ## Neler Bilmeniz Gerekiyor
 
-Ders boyunca en az 10 yeni uygulama projesi yapmanız gerekecek
-
 * Temel masaüstü bilgisayar kullanma
 * İngilizce okuduğunu anlama
 
@@ -77,6 +85,31 @@ Ders boyunca en az 10 yeni uygulama projesi yapmanız gerekecek
 * Nereden başlayacağına karar veremeyenler
 * KODLAMA SEVMEYENLER
 * Kodlamayı beceremediğini düşünenler
+
+## Neler Öğrenilecek
+
+Hiç bir işe yaramayacağını düşündüğünüz basit projeler tamamlayarak gerçek bir bilgisayar programcısı olabilirsiniz.
+
+Kurs boyunca en az 10 yeni uygulama projesi yapmanız gerekecek
+
+1. Sihirli hikaye yazarı
+1. Sayı Tahmin Oyunu 
+1. Tahmin bulma robotu 
+1. Taş Kağıt Makas oyunu 
+1. Adam Asmaca oyunu 
+1. İsim şehir oyunu 
+1. Haşlanmış yumurta çay demleme yardımcısı
+1. Şifre oluşturucu 
+1. QR kod okuyucu ve oluşturucu
+1. Tetris
+
+Kursun ikinci bölümünde 5 Arduino projelere geçeceğiz.
+
+1. Tele değme oyunu
+1. Kapı alarmı
+1. Trafik Işık kontrol paneli
+1. Kablolu Analog Game Pad
+
 
 ### Soru sormaya korkma
 
