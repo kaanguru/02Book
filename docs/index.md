@@ -2,7 +2,7 @@
 layout: home
 
 hero:
-  name: Kodlamaya Başlangıç
+  name: Korkma Kodla!
   text: Python'la IoT Programcılığı 
   tagline: Problem Çözerek bilgisayar programları yazmayı öğrenelim
   image:

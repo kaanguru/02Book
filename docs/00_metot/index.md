@@ -43,22 +43,22 @@ Videolarla kavramları anlayışınızı sağlamlaştırın. Ama *programlamayı
 Hata yapmaktan korkmadan, basit problemlerle boğuşmak gerek. Lütfen vereceğim sırayla alıştırmalardan mümkün olduğunca fazlasını yapın.
 
 ::: danger
-Korkma Kodla
+Korkma Kodla!
 :::
 
-## 21 Yıllık Deneyim
+## Dersleri kim veriyor?
 
 2002 yılından beri profesyonel olarak bilgisayar programcılığından para kazanıyorum.
 
  [Cem Kaan](/cemkaan)
 
-## Neler Gerekiyor
+## Neler Gerekiyor?
 
 * Bilgisayar: Notebook veya Masaüstü bilgisayarla kod yazacaksınız
 * Temel masaüstü bilgisayar kullanma
 * İngilizce: okuduğunu anlayacak kadar
 
-## Kurs kimin için
+## Kurs kimin için?
 
 * KODLAMA SEVMEYENLER
 * Bilgisayar Programlamaya en baştan başlayanlar
@@ -66,7 +66,7 @@ Korkma Kodla
 * Nereden başlayacağına karar veremeyenler
 * Kodlamayı beceremediğini düşünenler
 
-## Neler Öğrenilecek
+## Neler Öğrenilecek?
 
 Hiç bir işe yaramayacağını düşündüğünüz basit projeler tamamlayarak gerçek bir bilgisayar programcısı olabilirsiniz.
 

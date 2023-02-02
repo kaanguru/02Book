@@ -1,6 +1,6 @@
 export default {
   lang: 'tr',
-  title: 'Kodlamaya Başlangıç',
+  title: 'Korkma Kodla!',
   description: 'Python\'la Yeni Başlayanlar için Bilgisayar Programcılığı',
   themeConfig: {
     logo: '/logo.png',
