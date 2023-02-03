@@ -32,6 +32,10 @@ const members = [
 1. JavaScript - TypeScript
 1. CSS - Sass
 
+<a data-theme="light" data-layers="2,3,4,1" data-stack-embed="true" href="https://embed.stackshare.io/stacks/embed/d60323db4ac0e08701c9d7a5e0bf56"></a><script async src="https://cdn1.stackshare.io/javascripts/client-code.js" charset="utf-8"></script>
+
+https://stackshare.io/kaanguru
+
 #### Diğer Bildiğim Diller
 
 |  10'dan Fazla Proje Yaptıklarım| Bir Kaç Proje Yaptıklarım | Öğrendiklerim |

@@ -1,6 +1,6 @@
-# Programlama Eğitim Yöntemim
+# Eğitim Yöntemim
 
-Bir video serisini baştan sona seyretmek size çok az şey öğretir. Sadece eğitim videoları seyretmek, eve bir programcı çağırıp,hava atmak için bildiklerini anlatmasını seyretmek gibidir.
+Bir video serisini baştan sona seyretmek, çok az şey öğretir. Sadece programlama eğitim videoları seyretmek, eve bir programcı çağırıp,hava atmak için bildiklerini anlatmasını seyretmek gibidir.
 
 Eğer İngilizce **konuşabilmek** istiyorsanız, birinin size İngilizce gramerini anlatması çok işinize yaramayacaktır.
 
@@ -27,9 +27,9 @@ Eğer kendinizi *kod okumaya ve yazmaya*  zorlamazsanız öğrenemezsiniz.
 
 **Bu metot** : seviye seviye artırılmış  kodlama problemleri vererek öğretir👨🏼‍🏫
 
-## Bir dili baştan sona öğrenmeye çalışmayın
+## Baştan sona öğrenme
 
-Bir dili baştan sonra öğrenmeye çalışmak imkansızdır. Dilin geliştiricileri bile, sadece bildikleri bölümleri kullanarak program yazarlar.
+Bir dili **baştan sona öğrenmeye çalışmayın.**Baştan sonra öğrenmeye çalışmak imkansızdır. Dilin geliştiricileri bile, sadece bildikleri bölümleri kullanarak program yazarlar.
 
 Karşılaştığınız sorunların her zaman onlarca çözümü olacak. Sorunu nasıl çözdüğü bireylere göre değişiklik gösterir. [Bknz: Çevik Yazılım Geliştirme Manifestosu](https://agilemanifesto.org/iso/tr/manifesto.html)
 
