@@ -4,6 +4,8 @@ Bir video serisini baştan sona seyretmek, çok az şey öğretir. Sadece progra
 
 Eğer İngilizce **konuşabilmek** istiyorsanız, birinin size İngilizce gramerini anlatması çok işinize yaramayacaktır.
 
+Eğitim videolarıyla öğrenebileceğiniz herşeyi zaten ChatGPT gibi yapay zekalara yazdırabilirsiniz. Eğer şüphe duyuyorsanız; [ChatGPT](https://twitter.com/OpenAI)'a yazdırdığım finansal analiz bilgisayar programına [bakabilirsiniz](./chatgpt.md).
+
 Nasıl, şan eğitimi için eve şarkıcı çağırıp şarkı dinlemenin çok faydası olmayacaksa, nasıl kimse piyano çalmayı öğrenmek için eve piyanist şantör çağırıp günde bir iki saat şarkı dinleyip göndermiyorsa, programlama dillerini de sadece video seyrederek öğrenmek mümkün değildir.
 
 ::: danger UYARI
