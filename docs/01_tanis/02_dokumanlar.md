@@ -6,10 +6,6 @@ Bu **başvuru kılavuzu**, dilin sözdizimini ve “temel anlambilimini” açı
 
 [Ana Referans](https://docs.python.org/3/reference/index.html)
 
-::: tip
-[Bölüm Sonu Problemi](https://www.codewars.com/kata/5b077ebdaf15be5c7f000077)
-:::
-
 ## Selam Dünya
 
 Her programlama dil eğitimi "Hello World" yazdırmakla başlar.
@@ -17,3 +13,7 @@ Her programlama dil eğitimi "Hello World" yazdırmakla başlar.
 ```python
 print("Selâm'ın Aleyküm")
 ```
+
+::: danger Dikkat
+Korkma Kodla!
+:::

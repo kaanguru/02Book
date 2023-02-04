@@ -24,6 +24,26 @@ Profesyonel bir geliştirici olarak, bir IDE (Tümleşik Geliştirme Ortamı) ku
 
 **Intelli-Sense:** Herhangi bir kod parçacığının eksik bırakılıp bırakılmadığını algılayabilir. Ayrıca, ortak değişken sözdizimleri ve değişken bildirimleri otomatik olarak yapılır. Ör: Programda belirli bir değişken kullanılıyorsa ve kullanıcı bildirmeyi unuttuysa, ıntellisense bunu kullanıcı için bildirir.
 
-## Internet
+## Python Eklentisi
 
-<https://visualgo.net/en/sorting>
+<https://marketplace.visualstudio.com/items?itemName=ms-python.python>
+
+## Faydalı Kaynaklar
+
+::: info Hesap Açın !
+Dersleri Takip Etmek için [Alıştırma Sitelerinde](./alistirma-siteleri.md) hesap açın.
+:::
+
+[Örneklerle dolu bir kitapçık site](https://www.learnbyexample.org/python-introduction/)
+
+[Eğitim sonunda sertifika da veren Mobil Uygulama](https://sololearn.onelink.me/MfgO/b2lvn69x)
+
+::: tip Problem 01
+Artık python nedir bildiğinize göre doğrudan bir alıştırmayla başlayalım.
+[Bölüm Sonu Problemi](https://edabit.com/challenge/8ym3dKrL3svkYr4h4)
+Eğer takılacak olursanız, sorunun üstündeki *Resources* sekmesinden soruda kullanılan komutlar hakkında bilgi bulabilirsiniz.
+:::
+
+::: danger Dikkat
+Korkma Kodla!
+:::

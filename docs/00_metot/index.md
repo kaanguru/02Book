@@ -16,9 +16,9 @@ Bu yöntemle başlarda çok yavaş ilerleyeceksiniz. Sonra da gittikçe zorlaşa
 
 İlk bölüm sonunda; python ile Tetris oyunu yazabilen, *çok aranan* , **istediği programı inşa edebilecek** bir bilgisayar programcısı olacaksınız. [neler öğrenilecek](#neler-öğrenilecek)
 
-**Örneğin**: Strings konusu sadece yönlendirmeleriyle sorun çözerek
+**Örneğin**: Strings konusu sadece yönlendirmeleriyle sorun çözerek öğrenilirse asla unutulmaz.
 
-::: info
+::: info Bilgi
 Rusya'da konuşmak zorunda olduğum için rusça konuşabiliyorum.
 Defaatle Arapça öğrenme girişiminde bulundum ancak yeterli motivasyon bulamadığım için bugün konuşamıyorum.
 :::
@@ -27,13 +27,13 @@ Eğer kendinizi *kod okumaya ve yazmaya*  zorlamazsanız öğrenemezsiniz.
 
 **PROBLEM ÇÖZEREK ÖĞRENME METODUNDA:** "Bana bunlar öğretilmedi" demeyeceğiniz şekilde, adım adım öğrendikçe görevleri tamamlamanız ve KODLAYARAK ilerlemeniz gerekiyor.
 
-**Bu metot** : seviye seviye artırılmış  kodlama problemleri vererek öğretir👨🏼‍🏫
+**Bu metotla** : seviye > seviye artırılmış kodlama problemleri vererek öğretir👨🏼‍🏫
 
 ## Baştan sona öğrenme
 
-Bir dili **baştan sona öğrenmeye çalışmayın.**Baştan sonra öğrenmeye çalışmak imkansızdır. Dilin geliştiricileri bile, sadece bildikleri bölümleri kullanarak program yazarlar.
+Bir dili **baştan sona öğrenmeye çalışmayın**! Dil baştan sonra öğrenilecek birşey değildir dahası baştan sonra öğrenmek imkansızdır. Dilin kendi geliştiricileri bile, sadece bildikleri bölümleri kullanarak program yazarlar.
 
-Karşılaştığınız sorunların her zaman onlarca çözümü olacak. Sorunu nasıl çözdüğü bireylere göre değişiklik gösterir. [Bknz: Çevik Yazılım Geliştirme Manifestosu](https://agilemanifesto.org/iso/tr/manifesto.html)
+Karşılaştığınız sorunların her zaman onlarca çözümü olacak. Sorunu nasıl çözdüğü bireylere göre değişiklik gösterir. [Bakınız: Çevik Yazılım Geliştirme Manifestosu](https://agilemanifesto.org/iso/tr/manifesto.html)
 
 ::: tip
 Çocuklarım çift ana dilli. Rusça ve Türkçeyi aynı anda **konuşarak** öğrendiler. Kimse onlara türkçe rusça veya İngilizce gramer kurallarını öğretmedi.
@@ -44,7 +44,7 @@ Videolarla kavramları anlayışınızı sağlamlaştırın. Ama *programlamayı
 
 Hata yapmaktan korkmadan, basit problemlerle boğuşmak gerek. Lütfen vereceğim sırayla alıştırmalardan mümkün olduğunca fazlasını yapın.
 
-::: danger
+::: danger Dikkat
 Korkma Kodla!
 :::
 
@@ -52,7 +52,7 @@ Korkma Kodla!
 
 2002 yılından beri profesyonel olarak bilgisayar programcılığından para kazanıyorum.
 
- [Cem Kaan](/cemkaan)
+ [Cem Kaan](./cemkaan.md)
 
 ## Neler Gerekiyor?
 
@@ -192,10 +192,6 @@ Bir dil öğrenirken o dilin kelimelerini ezberlemek yada gramer kurallarına ç
 
 İnsanlık bilgisi dille ifade edilir, bu yüzden *kodlama eğitim yöntemimi* geliştirirken; yazılım dillerini yazılı ve sözlü bir dil perspektifinden anlamaya çalıştım.
 
-::: info
-Dersleri Takip Etmek için codewars ve kaggle hesabı açın.
+::: info Hesap Açın !
+Dersleri Takip Etmek için [Alıştırma Sitelerinde](./alistirma-siteleri.md) hesap açın.
 :::
-
-Kodlayarak öğreten <a href="//www.codewars.com/r/VHz6ew" target="_blank" rel="noreferrer">CodeWars Hesabı Aç</a>
-
-Python Eğitim Platformu [Kaggle Hesabı Aç](https://www.kaggle.com/learn)
