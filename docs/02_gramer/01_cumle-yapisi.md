@@ -13,6 +13,22 @@
 
 ## Yorumlar
 
+```python
+
+""" Eğer yorum olarak 
+ uzun bir blok ayırmak 
+ istiyorsak
+ """
+
+# Yada eğer sadece bir satırlık yorum istiyorsak
+
+# Yada başka bir çok satırlı
+# Yorum alanı örneği
+
+print("Lazer!")
+
+```
+
 ## Açık satır birleştirme
 
 ```python{2,3}

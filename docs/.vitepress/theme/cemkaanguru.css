@@ -15,3 +15,13 @@
   .has-outline nav li {
     padding: 1rem 0rem;
   }
+  .info a {
+    color: var(--vp-c-white) !important;
+    background-color: var(--vp-c-black);
+    padding: 0.8rem 1.7rem;
+    margin: 1rem;
+    text-decoration: none !important;
+  }
+  .info p {
+    line-height: 2rem !important;
+  }

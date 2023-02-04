@@ -29,6 +29,12 @@ Eğer kendinizi *kod okumaya ve yazmaya*  zorlamazsanız öğrenemezsiniz.
 
 **Bu metotla** : seviye > seviye artırılmış kodlama problemleri vererek öğretir👨🏼‍🏫
 
+:::info Bize Katıl !
+Eğer Metot aklınıza yattıysa ve sizde sabır gösterip programcı olmak istiyorsanız;
+
+Korkusuz Kodlayıcılar Takımına [KATILIN!](https://replit.com/teams/join/gayllkbieogbqlsxgohciewyesxjepum-korkusuz-kodlamacilar)
+:::
+
 ## Baştan sona öğrenme
 
 Bir dili **baştan sona öğrenmeye çalışmayın**! Dil baştan sonra öğrenilecek birşey değildir dahası baştan sonra öğrenmek imkansızdır. Dilin kendi geliştiricileri bile, sadece bildikleri bölümleri kullanarak program yazarlar.

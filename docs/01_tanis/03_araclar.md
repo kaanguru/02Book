@@ -31,7 +31,8 @@ Profesyonel bir geliştirici olarak, bir IDE (Tümleşik Geliştirme Ortamı) ku
 ## Faydalı Kaynaklar
 
 ::: info Hesap Açın !
-Dersleri Takip Etmek için [Alıştırma Sitelerinde](./alistirma-siteleri.md) hesap açın.
+
+Dersleri Takip Etmek için [Alıştırma Sitelerinde](../00_metot/alistirma-siteleri.md) hesap açın.
 :::
 
 [Örneklerle dolu bir kitapçık site](https://www.learnbyexample.org/python-introduction/)

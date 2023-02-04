@@ -5,6 +5,7 @@ export default {
   themeConfig: {
     logo: '/logo.png',
     nav: [
+      {text: "Metot", link: "00_metot/"},
       {
         text: "Tanış",
         items: [
@@ -19,6 +20,10 @@ export default {
           {
             text: "Araçlar",
             link: "/01_tanis/03_araclar.md"
+          },
+          {
+            text: "Katıl",
+            link: "https://replit.com/teams/join/uivxunbzyyrgurjgvycynozezhbtover-korkusuz-kodlamacilar"
           },
         ],
       },
