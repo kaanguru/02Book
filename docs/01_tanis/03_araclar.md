@@ -14,15 +14,15 @@ Kurulum esnasında PATH dizinine eklenecek
 
 Profesyonel bir geliştirici olarak, bir IDE (Tümleşik Geliştirme Ortamı) kullanacaksınız ve [Visual Studio Code](https://code.visualstudio.com/) benim kullandığım IDE
 
-* Sözdizimi Renklendirme
+* Söz-dizimi Renklendirme
 * Hata ve Uyarı İşaretleri
 * Belgeyi Biçimlendir
 
-**Git Desteği:** Kaynaklar Git Hub Repo'dan çevrimiçi olarak çekilebilir ve bunun tersi de geçerlidir; tasarruf da yapılabilir. Kaynak çekme, internette kullanıma sunulan kodun klonlanması anlamına da gelir. Bu kod daha sonra değiştirilebilir ve kaydedilebilir.
+**Git Desteği:** Kaynaklar Git Hub Repo'dan çevrim içi olarak çekilebilir ve bunun tersi de geçerlidir; tasarruf da yapılabilir. Kaynak çekme, kullanıma sunulan kodun klonlanması anlamına da gelir. Bu kod daha sonra değiştirilebilir ve kaydedilebilir.
 
 **Terminal Desteği:** Çoğu zaman, kullanıcının belirli bir eylemle başlamak için dizinin kökünden başlaması gerekir, yerleşik terminal veya konsol, aynı iki ekran arasında geçiş yapmamak için kullanıcı desteği sağlar.
 
-**Intelli-Sense:** Herhangi bir kod parçacığının eksik bırakılıp bırakılmadığını algılayabilir. Ayrıca, ortak değişken sözdizimleri ve değişken bildirimleri otomatik olarak yapılır. Ör: Programda belirli bir değişken kullanılıyorsa ve kullanıcı bildirmeyi unuttuysa, ıntellisense bunu kullanıcı için bildirir.
+**Intelli-Sense:** Herhangi bir kod parçacığının eksik bırakılıp bırakılmadığını algılayabilir. Ayrıca, ortak değişken söz-dizimleri ve değişken bildirimleri otomatik olarak yapılır. Ör: Programda belirli bir değişken kullanılıyorsa ve kullanıcı bildirmeyi unuttuysa, intellisense bunu kullanıcı için bildirir.
 
 ## Python Eklentisi
 

@@ -1,8 +1,8 @@
-# Python Dökümanları
+# Python Dokümanları
 
 [Ansiklopedik Bilgi](https://tr.wikipedia.org/wiki/Python)
 
-Bu **başvuru kılavuzu**, dilin sözdizimini ve “temel anlambilimini” açıklar
+Bu **başvuru kılavuzu**, dilin söz-dizimini ve “temel anlam-bilimini” açıklar
 
 [Ana Referans](https://docs.python.org/3/reference/index.html)
 
@@ -13,6 +13,8 @@ Her programlama dil eğitimi "Hello World" yazdırmakla başlar.
 ```python
 print("Selâm'ın Aleyküm")
 ```
+
+[Basit bir selamlama programı](https://replit.com/@kaanna/Selam-isim)
 
 ::: danger Dikkat
 Korkma Kodla!
