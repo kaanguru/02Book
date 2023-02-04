@@ -20,21 +20,20 @@ const members = [
 
 <VPTeamMembers size="medium" :members="members" />
 
-
 ### Bildiğim Diller
 
 [C Benzeri Dillerin çoğu](https://en.wikipedia.org/wiki/List_of_C-family_programming_languages)
 
 ### Uzman Olduğum Diller
 
+1. JavaScript -- TypeScript
 1. Dart
-1. PHP
-1. JavaScript - TypeScript
 1. CSS - Sass
+1. PHP
 
 <a data-theme="light" data-layers="2,3,4,1" data-stack-embed="true" href="https://embed.stackshare.io/stacks/embed/d60323db4ac0e08701c9d7a5e0bf56"></a><script async src="https://cdn1.stackshare.io/javascripts/client-code.js" charset="utf-8"></script>
 
-https://stackshare.io/kaanguru
+<https://stackshare.io/kaanguru>
 
 #### Diğer Bildiğim Diller
 
