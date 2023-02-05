@@ -5,12 +5,13 @@
   "author": "kaanguru",
   "license": "MIT",
   "scripts": {
+    "preinstall": "npx only-allow pnpm",
     "dev": "vitepress dev docs",
     "docs:build": "vitepress build docs",
     "docs:preview": "vitepress preview docs"
   },
   "devDependencies": {
-    "vitepress": "^1.0.0-alpha.43",
-    "vue": "^3.2.45"
+    "vitepress": "1.0.0-alpha.45",
+    "vue": "^3.2.47"
   }
 }
