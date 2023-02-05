@@ -17,10 +17,11 @@ const members = [
 # 20 Yıllık Deneyim
 
 2002 yılından beri profesyonel olarak bilgisayar programcılığından para kazanıyorum.
-
 <VPTeamMembers size="medium" :members="members" />
 
-### Bildiğim Diller
+![Cem Kaan](/logo.png)
+
+## Bildiğim Diller
 
 [C Benzeri Dillerin çoğu](https://en.wikipedia.org/wiki/List_of_C-family_programming_languages)
 
@@ -35,7 +36,7 @@ const members = [
 
 <https://stackshare.io/kaanguru>
 
-#### Diğer Bildiğim Diller
+### Diğer Bildiğim Diller
 
 |  10'dan Fazla Proje Yaptıklarım| Bir Kaç Proje Yaptıklarım | Öğrendiklerim |
 | -------------------------------| ------------------------- | ------------- |
@@ -46,3 +47,7 @@ const members = [
 |  Java                          |                           |  Rust         |
 |  ActionScript                  |                           |               |
 |  GO                            |                           |               |
+
+## Öğretmenlik
+
+3 yıl Yalova'da Arduino ve Oyun Kodlama dersleri verdim.

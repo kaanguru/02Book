@@ -11,3 +11,5 @@
 <https://edabit.com/challenges/python3#>!
 
 <https://www.learnbyexample.org/python/>
+
+https://docs.replit.com/teams-edu/input-output-testing

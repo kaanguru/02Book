@@ -3,18 +3,18 @@ export default {
   title: 'Korkma Kodla!',
   description: 'Python\'la Yeni Başlayanlar için Bilgisayar Programcılığı',
   themeConfig: {
-    logo: '/logo.png',
+    logo: '/kk-logo.png',
     nav: [
       {text: "Metot", link: "00_metot/"},
       {
         text: "Tanış",
         items: [
           {
-            text: "Nedir",
+            text: "Nedir?",
             link: "/01_tanis/01_nedir.md"
           },
           {
-            text: "Dökümanlar",
+            text: "Dokümanlar",
             link: "/01_tanis/02_dokumanlar.md"
           },
           {

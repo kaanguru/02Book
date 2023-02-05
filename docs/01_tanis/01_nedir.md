@@ -1,6 +1,6 @@
 # Python Nedir?
 
-![Python](/python_480px.png)
+![Python](/python_240px.png)
 
 ::: info
 Programcılığa başlamak için en iyi dillerden biri Python, diğeri JavaScript'dir.

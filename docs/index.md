@@ -3,10 +3,10 @@ layout: home
 
 hero:
   name: Korkma Kodla!
-  text: Python'la IoT Programcılığı 
-  tagline: Problem Çözerek bilgisayar programları yazmayı öğrenelim
+  text: Python'la 
+  tagline: Problem Çözerek programlama öğren !
   image:
-    src: /logo.png
+    src: /kk-logo.png
     alt: CemKaanGuru
   actions:
     - theme: brand
