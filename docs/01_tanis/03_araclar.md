@@ -6,11 +6,11 @@
 
 Kurulum esnasında PATH dizinine eklenecek
 
-![Windows Kurulum Ekranı](./img/kur.webp)
+![Windows Kurulum Ekranı](./img/python-kur.webp)
 
 ## Visual Studio Code
 
-![code](./img/visualstudiocodelogo.webp)
+![code](./img/visualstudiocodelogo.png)
 
 Profesyonel bir geliştirici olarak, bir IDE (Tümleşik Geliştirme Ortamı) kullanacaksınız ve [Visual Studio Code](https://code.visualstudio.com/) benim kullandığım IDE
 

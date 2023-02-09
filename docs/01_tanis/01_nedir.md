@@ -34,4 +34,4 @@ Açık kaynaklı veri araçlarının geliştiricileri ve kullanıcıları için 
 * Intel Edison
 * Arduino
 
-![IoT Geliştirici](./img/iot-path.jpg)
+![IoT Geliştirici](./img/iot-path.webp)
