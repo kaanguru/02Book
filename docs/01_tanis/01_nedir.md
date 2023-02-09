@@ -5,6 +5,8 @@
 ::: info
 Programcılığa başlamak için en iyi dillerden biri Python, diğeri JavaScript'dir.
 :::
+Öğrenmesi kolay bir programlama dilidir.
+![Python on Circuits](./img/python-on-circuit.webp)
 
 Fayton şeklinde okunur.
 
@@ -16,11 +18,13 @@ Fayton şeklinde okunur.
 
 **Kurulum** esnasında PATH dizinine eklenecek
 
-![Windows Kurulum Ekranı](./img/kur.png)
+![Windows Kurulum Ekranı](./img/python-kur.webp)
 
 ## Verilerin Dili
 
 Açık kaynaklı veri araçlarının geliştiricileri ve kullanıcıları için büyük bir topluluğa sahiptir.
+
+![Veri işleme](./img/data_anomaly_detection.webp)
 
 [Pandas](https://pandas.pydata.org/docs/getting_started/index.html#getting-started)
 

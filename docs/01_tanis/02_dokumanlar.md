@@ -1,5 +1,7 @@
 # Python Dokümanları
 
+![Document reading](./img/language_doc.webp)
+
 [Ansiklopedik Bilgi](https://tr.wikipedia.org/wiki/Python)
 
 Bu **başvuru kılavuzu**, dilin söz-dizimini ve “temel anlam-bilimini” açıklar
@@ -10,6 +12,8 @@ Bu **başvuru kılavuzu**, dilin söz-dizimini ve “temel anlam-bilimini” aç
 
 Her programlama dil eğitimi "Hello World" yazdırmakla başlar.
 
+ |H||e||l||l||o| |W||o||r||l||d|
+ 
 ```python
 print("Selâm'ın Aleyküm")
 ```
