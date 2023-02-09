@@ -6,6 +6,8 @@
 
 <https://docs.python.org/3/reference/lexical_analysis.html>
 
+![yapılar](./img/structure.jpg)
+
 ## Satır yapısı
 
 * Mantıksal satırlar
@@ -50,3 +52,5 @@ month_names = ['Januari', 'Februari', 'Maart',      # Almanca aylar
 ```
 
 ## Boş satırlar
+
+![ormanlar](./img/forrest.jpg)

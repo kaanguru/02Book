@@ -2,7 +2,7 @@
 layout: home
 
 hero:
-  name: Python'la 
+  name: Python'dan
   text: Korkma Kodla!
   tagline: Problem Çözerek programlama öğren !
   image:
