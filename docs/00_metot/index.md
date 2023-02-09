@@ -8,9 +8,11 @@ Eğitim videolarıyla öğrenebileceğiniz herşeyi zaten ChatGPT gibi yapay zek
 
 Nasıl, şan eğitimi için eve şarkıcı çağırıp şarkı dinlemenin çok faydası olmayacaksa, nasıl kimse piyano çalmayı öğrenmek için eve piyanist şantör çağırıp günde bir iki saat şarkı dinleyip göndermiyorsa, programlama dillerini de sadece video seyrederek öğrenmek mümkün değildir.
 
+![korkma kodla](/korkma-kodla.png)
 ::: danger UYARI
 HER KONU SADECE KOD YAZARAK ÖĞRENİLECEK
 :::
+
 
 Bu yöntemle başlarda çok yavaş ilerleyeceksiniz. Sonra da gittikçe zorlaşacak. Ama gün geçtikçe daha karışık programlar yazabileceksiniz.
 

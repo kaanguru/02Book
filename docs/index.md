@@ -2,11 +2,11 @@
 layout: home
 
 hero:
-  name: Korkma Kodla!
-  text: Python'la 
+  name: Python'la 
+  text: Korkma Kodla!
   tagline: Problem Çözerek programlama öğren !
   image:
-    src: /kk-logo.png
+    src: /kk-logo-2.png
     alt: CemKaanGuru
   actions:
     - theme: brand
@@ -15,4 +15,14 @@ hero:
     - theme: alt
       text: Metodumuz
       link: /00_metot/
+features:
+- title: Herşeye en baştan başlayarak
+  details: Dilbilgisi, Kontrol akışı, Döngüler, Fonksiyonlar, İfadeler, Sayılar... HER ŞEY! Son 20 Yıldır öğrendiklerimi öğretiyorum. 
+- title: Python Verilerin Dili
+  details: Açık kaynaklı veri araçlarının geliştiricileri ve kullanıcıları için büyük bir topluluğa sahiptir.
+
+- title: Python Nesnelerin Dili 
+  details: Günümüzde kullandığımız tüm nesneler , giyilebilir araçlar, python ile programlanmaktadır.
+
+
 ---

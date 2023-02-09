@@ -46,7 +46,11 @@ export default {
       },
 
     ],
-    outlineTitle: 'Bu sayfada'
+    outlineTitle: 'Bu sayfada',
+    footer: {
+      copyright: "Copyright © 2023-present Cem Kaan Kosali",
+      message: 'MIT Lisansı altında yayınlanmıştır.',
+    }
   
   }
 }

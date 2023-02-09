@@ -20,6 +20,8 @@ Fayton şeklinde okunur.
 
 ## Verilerin Dili
 
+Açık kaynaklı veri araçlarının geliştiricileri ve kullanıcıları için büyük bir topluluğa sahiptir.
+
 [Pandas](https://pandas.pydata.org/docs/getting_started/index.html#getting-started)
 
 ## Nesnelerin Dili
