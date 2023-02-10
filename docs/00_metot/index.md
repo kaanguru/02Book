@@ -62,6 +62,10 @@ Korkma Kodla!
 
  [Cem Kaan](./cemkaan.md)
 
+## Kimlere uygun?
+
+15-25 yaş arası Lise ve üniversite öğrencilerine
+
 ## Neler Gerekiyor?
 
 * Bilgisayar: Notebook veya Masaüstü bilgisayarla kod yazacaksınız
